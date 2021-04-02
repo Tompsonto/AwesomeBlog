@@ -19,7 +19,7 @@
   "devDependencies": {
     "@nuxtjs/markdownit-loader": "^1.2.0",
     "@nuxtjs/tailwindcss": "^4.0.1",
-    "postcss": "^8.2.8",
+    "postcss": "^7.0.32",
     "tailwindcss-textshadow": "^2.1.3"
   }
 }
