@@ -3,7 +3,7 @@ export default {
   ssr: false,
 
   env: {
-    graphcmsEndpoint: process.env.GRAPHCMS_ENDPOINT
+    graphcmsEndpoint: process.env.GRAPHCMS_ENDPOINT || "https://api-eu-central-1.graphcms.com/v2/ckmpnlqevh33j01xm0ht9241r/master"
   },
 
   // Target: https://go.nuxtjs.dev/config-target
